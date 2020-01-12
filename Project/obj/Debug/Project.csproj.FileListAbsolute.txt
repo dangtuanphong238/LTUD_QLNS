@@ -1,0 +1,89 @@
+D:\C#\#DO_AN\Project\Project\bin\Debug\Project.exe.config
+D:\C#\#DO_AN\Project\Project\bin\Debug\Project.exe
+D:\C#\#DO_AN\Project\Project\bin\Debug\Project.pdb
+D:\C#\#DO_AN\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\C#\#DO_AN\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\C#\#DO_AN\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\C#\#DO_AN\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\C#\#DO_AN\Project\Project\obj\Debug\Project.exe
+D:\C#\#DO_AN\Project\Project\obj\Debug\Project.pdb
+D:\C#\#DO_AN\Project\Project\obj\Debug\Project.frmMDIMain.resources
+D:\C#\#DO_AN\Project\Project\obj\Debug\Project.frmLogin.resources
+D:\LTUD-Project-master\Project\bin\Debug\Project.exe.config
+D:\LTUD-Project-master\Project\obj\Debug\Project.exe
+D:\LTUD-Project-master\Project\obj\Debug\Project.pdb
+D:\LTUD-Project-master\Project\bin\Debug\Project.exe
+D:\LTUD-Project-master\Project\bin\Debug\Project.pdb
+D:\LTUD-Project-master\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\LTUD-Project-master\Project\obj\Debug\Project.frmHopDongLaoDong.resources
+D:\LTUD-Project-master\Project\obj\Debug\Project.frmLogin.resources
+D:\LTUD-Project-master\Project\obj\Debug\Project.frmMDIMain.resources
+D:\LTUD-Project-master\Project\obj\Debug\Project.frmPhongBan.resources
+D:\LTUD-Project-master\Project\obj\Debug\Project.Properties.Resources.resources
+D:\LTUD-Project-master\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\bin\Debug\Project.exe.config
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\bin\Debug\Project.exe
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\bin\Debug\Project.pdb
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.frmHopDongLaoDong.resources
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.frmLogin.resources
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.frmMDIMain.resources
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.frmPhongBan.resources
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.exe
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.pdb
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.frmNhanVien.resources
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.frmChucVu.resources
+D:\Project C#\LTUD-Project\Project\bin\Debug\Project.exe.config
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.exe
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.pdb
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.frmChucVu.resources
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.frmHopDongLaoDong.resources
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.frmLogin.resources
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.frmMDIMain.resources
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.frmNhanVien.resources
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.frmPhongBan.resources
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.frmTDHV.resources
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\Project C#\LTUD-Project\Project\bin\Debug\Project.exe
+D:\Project C#\LTUD-Project\Project\bin\Debug\Project.pdb
+D:\Project C#\LTUD-Project\Project\obj\Debug\Project.frmLuong.resources
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.frmTDHV.resources
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.frmChucVu.resources
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.frmHopDongLaoDong.resources
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.frmLogin.resources
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.frmMDIMain.resources
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.frmNhanVien.resources
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.frmPhongBan.resources
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.frmTDHV.resources
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.exe
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.pdb
+C:\Users\PC\Desktop\LTUD-Project\Project\bin\Debug\Project.exe.config
+C:\Users\PC\Desktop\LTUD-Project\Project\bin\Debug\Project.exe
+C:\Users\PC\Desktop\LTUD-Project\Project\bin\Debug\Project.pdb
+C:\Users\PC\Desktop\LTUD-Project\Project\obj\Debug\Project.frmLuong.resources
+C:\Users\SKT_B\OneDrive\Documents\GitHub\LTUD-Project\Project\obj\Debug\Project.frmLuong.resources
+D:\C#\#DO_AN\LTUD-Project\Project\bin\Debug\Project.exe.config
+D:\C#\#DO_AN\LTUD-Project\Project\bin\Debug\Project.exe
+D:\C#\#DO_AN\LTUD-Project\Project\bin\Debug\Project.pdb
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.frmChucVu.resources
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.frmHopDongLaoDong.resources
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.frmLogin.resources
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.frmLuong.resources
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.frmMDIMain.resources
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.frmNhanVien.resources
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.frmPhongBan.resources
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.frmTDHV.resources
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.exe
+D:\C#\#DO_AN\LTUD-Project\Project\obj\Debug\Project.pdb
